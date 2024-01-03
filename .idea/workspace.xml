@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="934db09f-8359-4d37-a1f8-9d31f67100cd" name="Changes" comment="add simple test and GitHub workflow">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="934db09f-8359-4d37-a1f8-9d31f67100cd" name="Changes" comment="add second test" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,6 +43,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2aRhmFFDrp9qTfNCdvD6RTH1u74" />
@@ -58,7 +61,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "second",
     "ignore.virus.scanning.warn.message": "true"
   }
 }]]></component>
@@ -118,6 +121,8 @@
       <list>
         <item itemvalue="Gradle.TempTests [test]" />
         <item itemvalue="Gradle.MainTest" />
+        <item itemvalue="Gradle.TempTests [test]" />
+        <item itemvalue="Gradle.MainTest" />
       </list>
     </recent_temporary>
   </component>
@@ -144,12 +149,28 @@
       <option name="project" value="LOCAL" />
       <updated>1704288407782</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="fix tests">
+      <created>1704288650632</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1704288650632</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add second test">
+      <created>1704288790344</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1704288790344</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add proper gitignore and initial files" />
     <MESSAGE value="add simple test and GitHub workflow" />
-    <option name="LAST_COMMIT_MESSAGE" value="add simple test and GitHub workflow" />
+    <MESSAGE value="fix tests" />
+    <MESSAGE value="add second test" />
+    <option name="LAST_COMMIT_MESSAGE" value="add second test" />
   </component>
 </project>
