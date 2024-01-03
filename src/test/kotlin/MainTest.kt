@@ -4,6 +4,6 @@ import kotlin.test.assertEquals
 class MainTest {
     @Test
     fun test() {
-        assertEquals(3, 1 + 1)
+        assertEquals(2, 1 + 1)
     }
 }
